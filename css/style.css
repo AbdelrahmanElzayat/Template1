@@ -365,8 +365,8 @@ body{
     }
     .About-image{
         margin: 0 auto 150px;
-        width: 350px;
-        height: 200px;
+        width: 300px;
+        height: 180px;
         overflow: hidden;
     }
     .About-image img{
