@@ -364,10 +364,13 @@ body{
         display: none;
     }
     .About-image{
-         margin: 0 auto 150px;
+        margin: 0 auto 150px;
         width: 350px;
         height: 200px;
         overflow: hidden;
+    }
+    .About-image img{
+        max-width:100%;
     }
     .about-text{
         padding-left: 0;
